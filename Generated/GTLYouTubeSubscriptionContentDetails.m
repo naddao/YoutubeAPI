@@ -36,5 +36,5 @@
 //
 
 @implementation GTLYouTubeSubscriptionContentDetails
-@dynamic newItemCount, totalItemCount;
+@dynamic itemCount, totalItemCount;
 @end
